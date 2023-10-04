@@ -1,5 +1,6 @@
 # wireguard-config-generator
-Generator configuration new client for wireguard
+Configuration generator for new profiles for Wireguard server and client.
+A QR code is also generated for the client in the smartphone.
 # Pre installed packages:
 sudo apt install wireguard-tools
 sudo apt install qrencode
@@ -11,3 +12,6 @@ routes="10.38.3.0/24"
 dns_1="10.38.3.1"
 client_NETs="10.38.3.0"
 client_name="Enter wireguard-client name"
+
+# Run scripts
+.\wg-gen-mikrotik.sh
