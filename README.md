@@ -1,5 +1,5 @@
 # wireguard-config-generator
-Configuration generator for new profiles for Wireguard server and client.
+Configuration generator for new profiles for Wireguard server and client on Mikrotik.
 A QR code is also generated for the client in the smartphone.
 # Pre installed packages:
 sudo apt install wireguard-tools
