@@ -2,7 +2,7 @@
 #sudo apt install wireguard-tools
 #sudo apt install qrencode
 server_publickey="GOywaf8e2712oIOP/Y8MxBsurQOcOKh3H+zbKcn6fW0="
-server_ip="195.191.201.37"
+server_ip="175.182.221.38"
 server_port=50161
 routes="10.38.3.0/24"
 DNS_1="10.38.1.3"
